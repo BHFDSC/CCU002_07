@@ -1,29 +1,30 @@
-# BHF Data Science Centre research project template
-
-This is a template repository used by the BHF Data Science Centre team when creating new repositories for multi-nation CVD-COVID-UK/COVID-IMPACT projects.
-
-# Project name
+# COVID-19 infection and vaccination and the risks of inflammatory and vascular events in individuals aged under 18 years old
 
 ## Project description
 
-Description will be added here.
+Covid-19 disease (infectious disease causes by SARS-CoV-2) might increase the chance of having inflammatory and vascular events in children. Previous research has demonstrated the link between Covid-19 and subsequent vascular events in adults, but little is known about this link in children. Furthermore, there are reports of inflammatory diseases post SARV-CoV-2 infection in children such as the Paediatric Multisystem Inflammatory Syndrome. Higher risk of inflammatory diseases post Covid-19 needs to be quantified in children.
+
+They have been concerns about higher risk of myocarditis/pericarditis post Covid-19 vaccination in general population and there were reported cases of venous and arterial blood clots in unusual locations, such as the cerebral veins, low platelet levels, as well as inflammation of the heart, after various doses of COVID-19 vaccination. We need to better understand whether this is of concern in children.
+
+We will study children alive in NHS England and Wales during the pandemic. First, we will follow children from the beginning of the pandemic in January 2020 and identify whether they had any record of Covid-19 disease. We will explore the relationship between Covid-19 and subsequent vascular and inflammatory events in those children. In other words, we will compare the number of children with events and a diagnosis of Covid-19 to the number with events and without Covid-19 diagnosis for a list of vascular and inflammatory diseases. Second, we will follow children from August 2021 and explore whether they have been vaccinated against Covid-19. We will explore whether vaccination leads to higher risk of vascular and inflammatory diseases in children.
+
+Different children may have different risks, so we will look at children of different age group, ethnicities, and medical history.
+
+This information is needed so that we can better plan health care provision and prevention for children post-Covid-19 infection and according to their vaccination status.
 
 ## How to cite this work
 > Citation goes here
 
 ## Contents
 
-* [View the analysis code and phenotypes used in NHS Digital's TRE for England](https://github.com/BHFDSC/CCUXXX_XX/tree/main/england)
-* [View the analysis code and phenotypes used in the Safe Haven](https://github.com/BHFDSC/CCUXXX_XX/tree/main/scotland)
-* [View the analysis code and phenotypes used in the SAIL Databank](https://github.com/BHFDSC/CCUXXX_XX/tree/main/wales)
-* [View the code used outside of the environments to prepare tables and figures for publication](https://github.com/BHFDSC/CCUXXX_XX/tree/main/outside)
-* [View the final ouput of our analysis](https://github.com/BHFDSC/CCUXXX_XXX/tree/main/outside/output)
+* [View the analysis code and phenotypes used in NHS Digital's TRE for England](https://github.com/BHFDSC/CCU002_07/tree/main/england)
+* [View the analysis code and phenotypes used in the SAIL Databank](https://github.com/BHFDSC/CCU002_07/tree/main/wales)
+* [View the code used outside of the environments to prepare tables and figures for publication](https://github.com/BHFDSC/CCU002_07/tree/main/outside)
+* [View the final ouput of our analysis](https://github.com/BHFDSC/CCU002_07/tree/main/outside/output)
 
 ## Project approval
 
-This is a sub-project of [project CCUXXX](https://github.com/BHFDSC/CCUXXX) approved by the CVD-COVID-UK / COVID-IMPACT Approvals & Oversight Board (sub-project: CCUXXX_XX).
-
-This project has been approved by the CVD-COVID-UK / COVID-IMPACT Approvals & Oversight Board (project: CCUXXX_XX).
+This is a sub-project of [project CCU002](https://github.com/BHFDSC/CCU002) approved by the CVD-COVID-UK / COVID-IMPACT Approvals & Oversight Board (sub-project: CCU002_07).
 
 ## License
 
