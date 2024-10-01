@@ -17,10 +17,8 @@ This information is needed so that we can better plan health care provision and 
 
 ## Contents
 
-* [View the analysis code and phenotypes used in NHS Digital's TRE for England](https://github.com/BHFDSC/CCU002_07/tree/main/england)
-* [View the analysis code and phenotypes used in the SAIL Databank](https://github.com/BHFDSC/CCU002_07/tree/main/wales)
-* [View the code used outside of the environments to prepare tables and figures for publication](https://github.com/BHFDSC/CCU002_07/tree/main/outside)
-* [View the final ouput of our analysis](https://github.com/BHFDSC/CCU002_07/tree/main/outside/output)
+* [View the analysis code used in NHS England's SDE for England](https://github.com/BHFDSC/CCU002_07/tree/main/code)
+* [View the phenotyping algorithms and codelists used in NHS England's SDE for England](https://github.com/BHFDSC/CCU002_07/tree/main/phenotypes)
 
 ## Project approval
 
