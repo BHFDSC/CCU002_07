@@ -1,5 +1,5 @@
 # Databricks notebook source
-# MAGIC %md # CCCU002_07-D03c-curated_vacc
+# MAGIC %md # CCU002_07-D03c-curated_vacc
 # MAGIC
 # MAGIC **Description** This notebook provides a part-curated and streamlined version of the vaccination_status dataset with an accompanying quality assurance table. Minimal exclusions have been applied as the criteria may differ according to the given project. For example, duplicates on PERSON_ID and DATE and duplicates on PERSON_ID and PROCEDURE have been flagged, but not excluded. One may opt for a brute force approach for exluding these records, say keeping the earliest record for duplicates on PERSON_ID and PROCEDURE (recognising and accepting that this may not be optimal for all instances), or one may choose to apply a more complex algorithmic approach to identify the most appropriate record with reference to other records for the individual. However, the latter approach is more time consuming and may still not provide a satisfactory result for the relatively small number of duplicate records identified. The dose sequence and quality assurance table will need to be updated following any additional exclusions. Exclusions, flagged possible exclusions, and quality checks are inline with the data cleaning performed in the SAIL Databank (see below for further details). 
 # MAGIC
