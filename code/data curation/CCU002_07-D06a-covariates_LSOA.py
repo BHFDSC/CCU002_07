@@ -1,5 +1,5 @@
 # Databricks notebook source
-# MAGIC %md # CCU002_07-D6a-covariates_LSOA
+# MAGIC %md # CCU002_07-D06a-covariates_LSOA
 # MAGIC  
 # MAGIC **Description** This notebook creates the covariates for infection based on LSOA. LSOA will be used to derive LSOA, region and index of multiple deprivation;
 # MAGIC  
