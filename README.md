@@ -1,5 +1,7 @@
 # COVID-19 infection and vaccination and the risks of inflammatory and vascular events in individuals aged under 18 years old
 
+**Alexia Sampri, Wen Shi, Thomas Bolton, Samantha Ip, Rochelle Knight, Venexia Walker, Rachel Denholm, Elena Raffetti, Spencer Keene, Elias Allara, Xiyun Jiang, Evangelos Kontopantelis, Spiros Denaxas, Kamlesh Khunti, Nathalie Conrad, Christina Pagel, Pia Hardelid, Jonathan A C Sterne, Katherine L Brown, William N Whiteley, Genevieve Cezard, Angela M Wood, for the CVD-COVID-UK/COVID-IMPACT Consortium and the Longitudinal Health Wellbeing COVID-19 National Core Study**
+
 ## Project description
 
 Covid-19 disease (infectious disease causes by SARS-CoV-2) might increase the chance of having inflammatory and vascular events in children. Previous research has demonstrated the link between Covid-19 and subsequent vascular events in adults, but little is known about this link in children. Furthermore, there are reports of inflammatory diseases post SARV-CoV-2 infection in children such as the Paediatric Multisystem Inflammatory Syndrome. Higher risk of inflammatory diseases post Covid-19 needs to be quantified in children.
