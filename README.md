@@ -15,7 +15,7 @@ Different children may have different risks, so we will look at children of diff
 This information is needed so that we can better plan health care provision and prevention for children post-Covid-19 infection and according to their vaccination status.
 
 ## How to cite this work
-> Citation goes here
+Sampri A, Shi W, Bolton T, et al. Vascular and inflammatory diseases after COVID-19 infection and vaccination in children and young people in England: a retrospective, population-based cohort study using linked electronic health records. Lancet Child Adolesc Health. 2025;9(12):837-847. doi: https://doi.org/10.1016/S2352-4642(25)00247-0
 
 ## Contents
 
